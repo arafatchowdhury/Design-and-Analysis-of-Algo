@@ -38,6 +38,7 @@ Step 9: output the entire MSTofG and the totalCost to outfile1, argv[1], with pr
 Step 10: close all files.
 
 Input:
+
 9
 
 6 4 3
@@ -64,14 +65,25 @@ Input:
 
 
 Output:
+
 Entire MSTofG with Respective Cost:
+
 <0,0,0>
+
 <2,4,1>
+
 <6,7,2>
+
 <9,8,2>
+
 <8,6,2>
+
 <4,3,3>
+
 <1,6,3>
+
 <6,4,3>
+
 <3,5,4>
+
 Total Cost: 20
