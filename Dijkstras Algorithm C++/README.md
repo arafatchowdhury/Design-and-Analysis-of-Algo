@@ -1,4 +1,4 @@
-# Dijkstra's Algorithm
+# Dijkstra's Algorithm (C++)
 
 Algorithm Steps:
 
